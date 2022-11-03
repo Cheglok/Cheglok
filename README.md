@@ -9,7 +9,7 @@
 <a href="https://t.me/cheglokk">
   <img src="https://img.shields.io/badge/Telegram-9cf" alt="Telegram Badge"/>
 </a>
-  cheglokm@yandex.ru
+  cheglok37@gmail.com
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Cheglok&style=flat-square&color=blue" alt=""/>
