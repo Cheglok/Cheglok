@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Frontend Developer <img src="img/croco.gif" title="Croco" alt="Croco" width="50"/>
 
 - :telescope: I’m working as a Web developer and contributing to frontend and backend for building web applications.
 
@@ -53,5 +53,3 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheglok&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="img/croco.gif" title="Croco" alt="Croco" width="200" height="200"/>
